@@ -1,0 +1,8 @@
+django-admin startproject first
+cd first
+python3 manage.py startapp user
+
+
+
+
+
